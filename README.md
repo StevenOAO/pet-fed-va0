@@ -1,11 +1,17 @@
 # pet-fed-va0
 This project is developed using Tuya SDK, which enables you to quickly develop branded apps connecting and controlling smart scenarios of many devices.For more information, please check Tuya Developer Website.
 
-一、方案标题教室低成本防疫提示器
-二、方案应用场景地点：大学公共教学楼教室；功能：秋冬季节到来，疫情反扑风险加大，大学生身份特殊性，需要加强防范，
-使用该提示器，时刻检测教室内空气质量，同时及时提醒同学寻找座位听课时保持一定距离。
-三、开发计划
-3月25前完成.
-1）2月28前准备物料
-2）3月1-20日嵌入式开发、云开发
-3）3月15日前整体调试。
+宠物喂食计划书
+======
+
+方案应用场景
+------------
+地点：家庭或宠物店等室内环境；
+功能：宠物独自在家无人照看时，远程观察宠物状态，并且可以控制对宠物进行投喂。
+
+开发计划
+------------
+4月25前完成.
+1）3月25前准备物料
+2）4月1-20日嵌入式开发、云开发
+3）4月15日前整体调试。
